@@ -7,6 +7,7 @@
 Link to the puzzle page: [https://adventofcode.com/2023/](https://adventofcode.com/2023/)
 
 Days solved so far:
+
 [✅] Day 1
 
 - [✅] Part 1
