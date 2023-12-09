@@ -3,7 +3,7 @@ bag = {"red": 12,
        "green": 13,
        "blue": 14}
 
-with open("/mnt/hdd/dminh/aoc/aoc2023/day02/day02_input.txt", "r") as f:
+with open("day02_input.txt", "r") as f:
     input = [line.strip() for line in f.readlines()]
     
     result_p1 = 0
