@@ -18,7 +18,11 @@ Days solved so far:
 - [✅] Part 1
 - [✅] Part 2
 
-[❌] Day 3
+[✅] Day 3
+
+- [✅] Part 1
+- [✅] Part 2
+
 [❌] Day 4
 [❌] Day 5
 [❌] Day 6
